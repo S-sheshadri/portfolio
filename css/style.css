@@ -1,17 +1,10 @@
 /* General Styles */
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
 
-/*body {*/
-/*    font-family: 'DM Sans', sans-serif;*/
-/*    margin: 0;*/
-/*    padding: 0;*/
-/*    background-color: #fafafa;*/
-/*    color: #122533;*/
-/*    transition: background-color 0.3s, color 0.3s;*/
-/*    font-size: 1.1rem;*/
-/*}*/
+
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #fafafa;
